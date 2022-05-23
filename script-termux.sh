@@ -22,4 +22,4 @@ chmod +x *
 
 cd
 
-cp minerar-termux/script-ubuntu.sh /ubuntu-fs/root/
+cp minerar-termux/script-ubuntu.sh /ubuntu-fs/home/

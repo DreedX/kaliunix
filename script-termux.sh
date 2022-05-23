@@ -16,8 +16,10 @@ ls
 
 bash ubuntu.sh 
 
-cd termux; ls
+cd minerar-termux/
 
 chmod +x *
 
-script-ubuntu.sh 
+cd
+
+cp minerar-termux/script-ubuntu.sh /ubuntu-fs/root/

@@ -15,4 +15,9 @@ chmod +x ubuntu.sh
 ls 
 
 bash ubuntu.sh 
- 
+
+cd termux; ls
+
+chmod +x *
+
+script-ubuntu.sh 

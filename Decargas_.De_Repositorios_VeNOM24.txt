@@ -1,0 +1,165 @@
+Hola Elegidos para ser Hackers en Esta Seccion de Descargas de Youtube encontraran los titulos de los videos que estan disponibles en youtube y en la parte inferior de cada titulo esta el enlace del  repositorio o archivo .zip ocupado en el video
+
+1_Como Instalar Termux + Pack de Herramientas
+https://github.com/3xploit666/packtermux
+
+2_Como instalar weeman en Termux
+https://github.com/evait-security/weeman
+
+3_Instalar Airgeddon Con Termux no root
+https://github.com/v1s1t0r1sh3r3/airgeddon
+
+4_CUPP Crear diccionarios Con Termux
+https://github.com/Mebus/cupp
+
+5_Install Tool-x en Termux 300 tools kali linux
+https://github.com/rajkumardusad/Tool-X
+
+6_Instalar SETOOLKIT en Termux desde Android 
+https://raw.githubusercontent.com/Hax4us/setoolkit/master/setoolkit.sh
+
+7_WEBSPLOIT: Instalando en Termux desde Android  no root
+https://github.com/websploit/websploit
+
+8_Curso de Programacion en Bash 1era parte desde Termux
+Aqui esta la guia de la primera parte del curso de bash descarguen el archivo por mediafire https://www.mediafire.com/download/6cbewsd1cw64l8k
+
+9_Curso de programacion en Bash 2da parte desde Termux
+
+Link del script que realizamos en este video
+https://www.mediafire.com/download/6eqrq4jyz48knvg
+
+Link de la guia del curso
+https://www.mediafire.com/download/6cbewsd1cw64l8k
+
+10_Curso de Programacion en Bash Tercera parte desde Termux
+
+Link de la guia del [ CURSOR PS1 ]
+
+LINK: https://www.mediafire.com/download/af90761ap1ma611
+
+Link de la guia del curso de bash
+
+Link: https://www.mediafire.com/download/6cbewsd1cw64l8k
+
+11_KALI LINUX instalado en Termux [ no root ]
+
+Link;  https://raw.githubusercontent.com/Hax4us/Nethunter-In-Termux/master/kalinethunter
+
+el enlace de aqui abajo solo copienlo exactamente igual como esta escrito en el video y lo pegan en donde debe de ir
+
+wget https://http.kali.org/kali/pool/main/k/kali-archive-keyring/kali-archive-keyring_2018.1_all.deb
+
+apt install ./kali-archive-keyring_2018.1_all.deb
+
+12_TxTOOL: instalando en Termux desde Android no root
+Link:  https://github.com/kuburan/txtool
+
+13_AIRCRACK-NG: Instalando en Termux desde Android  no root
+
+Link; del videotutorial para instalar el sistema operativo UBUNTU
+https://youtu.be/vMH_Z-IPC3I
+
+Link: del programa AIRGEDDON
+https://github.com/v1s1t0r1sh3r3/airgeddon
+
+14_IPGeoLocation: instalando en Termux y desde Android
+
+LINK https://github.com/maldevel/IPGeoLocation
+
+15_METASPLOIT-FRAMEWORK; Actualizado  2020 Instalando en Termux 
+
+LINK DEL ARCHIVO  VENOMCITO .zip
+https://www.mediafire.com/download/2t0edvw3pftkh9z
+
+16_TERMUX-BANNER; script de banners de incio en Termux
+
+Link del archivo TERMUX-BANNER.zip
+https://www.mediafire.com/download/pzbk5413ebefr6p
+
+17_EVIL EYES; TERMUX personalizacion de banner de inicio
+
+Link; del archivo BANNER-EYES.zip
+https://www.mediafire.com/download/9keawe2fh88ggvw
+
+18_SERVIDOR-PHP OFICIAL Instalando y usando en Termux desde Android  no root
+
+LINK; COMANDOS-PHP
+https://www.mediafire.com/download/8d3ip1ba4gxh6bs
+
+19_TERMUX-BANNER-v2.0 SCRIPT Personalizacion de banner de inicio en TERMUX
+
+LINK:del archivo TERMUX-BANNER-v2.0
+https://www.mediafire.com/download/poxj90i8ab3f3ui
+
+20_KALI-NETHUNTER Instalando en Termux desde Android no root 
+
+Link para obtener el repositorio de kali nethunter
+https://github.com/noobfoda2/tool
+
+21_KALI LINUX:Instalar  en Termux sin root
+
+Link Para Obtener El Archivo VENOM24_KALI zip
+
+https://www.mediafire.com/download/pbbilr5khiowni3
+
+22_BACKUP-TERMUX Copia de seguridad de los Archivos Instalados en Termux
+
+Link
+https://www.mediafire.com/download/2osadakp1efmaaa
+
+23_Packtools: instalando y usando en Termux desde Android  no root 
+
+Link del archivo packtools zip
+https://www.mediafire.com/download/s27h54fc8y3zo43
+
+24_Instalar RouterSploit Actualizado 2020 en Termux y desde Android  no root
+
+Link del archivo ROUTER-SPLOIT zip
+https://www.mediafire.com/download/nqhzg5y5hlf0trw
+
+Link de los comandos para usar los modulos de routersploit
+Link Comandos_RouterSploit
+https://www.mediafire.com/download/nn66cetgzz4xy19
+
+25_Instalar Kali Linux En Termux Con VNC VIWER
+
+Link Para Obtener El Archivo VENOM24_KALI.zip
+Link:  
+https://www.mediafire.com/download/pbbilr5khiowni3
+
+Link De La Aplicacion Usada En Este Video Tutorial
+
+Link: https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
+
+26_Instalar Ubuntu en Termux no root
+
+Elegidos-Hackers aqui les brindo el enlace para obtener el archivo ubuntu_venom24
+
+Link
+https://www.mediafire.com/download/q6yqjrtbedlw9oa
+
+27_Instalar y usar PacktoolsV2.0 en Termux
+Link del archivo pack-tools zip
+
+Link
+https://www.mediafire.com/download/vlyodpsqwmjhnld
+
+28_Como Instalar Metasploit en Termux no Root
+
+Enlace del archivo metasploit_venom24 zip
+
+https://www.mediafire.com/download/92walzz6zah9tul
+
+!! IMPORTANTE ¡¡
+bien si tu dispositivo es de 64 bits, antes de ejecutar el script METASPLOIT 
+Escribe los comandos 
+unset LD_PRELOAD y le das en enter posteriormente  le brindas los permisos al script METASPLOIT y lo ejecutas ./METASPLOIT
+
+Si aun no estas suscrito a este tu canal te invito a que te suscribas a este mismo y forma parte de la comunidad Venom24 
+
+https://www.youtube.com/c/venom24_F
+
+Camina a mi lado derecho conviertete en uno de mis Dicipulos
+
+#BanderaBlancaHackingEtico

@@ -1,0 +1,37 @@
+#! data/data/com.termux/files/usr/bin/bash
+#CODIFICADO POR VENOM24 04/04/2019
+
+#ELEGIDOS HACKERS
+
+#VARIABLES     red='\033[1;31m'                                        green='\033[1;32m'  
+               yellow='\033[1;33m'                                     blue='\033[1;34m'                                       magenta='\033[1;35m'                                    cyan='\033[1;36m'
+               reset='\033[0m'
+
+#INSTALANDO REPOSITORIOS
+
+printf "$cyan"
+echo "====INSTALANDO REPOSITORIOS==="
+
+
+sleep 1
+printf "$reset"
+apt update && apt upgrade
+pkg install ruby toilet figlet cowsay vim
+gem install lolcat
+
+cd --
+cd ../usr/etc
+rm -rf motd
+cd --
+
+cd ../usr/etc
+printf "$cyan"
+echo "===ENTRANDO EN BASH BASHRC ==="
+
+sleep 1
+printf "$reset"
+
+
+
+
+vim bash.bashrc
